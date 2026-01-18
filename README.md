@@ -8,7 +8,7 @@
 
 ## Технологии
 - HTML5
-- CSS (Bootstrap?)
+- CSS (Bootstrap)
 - JavaScript
 
 ## Участники
